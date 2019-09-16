@@ -13,6 +13,12 @@ const times = function(b, a) {
         tally[i] = 0; 
         i++;
     }
+
+    while (i < a) {
+        res = roll(a);
+        tally[res]++ 1;
+        i ++ 1;
+    }
 };
 
 var a = 6;

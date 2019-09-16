@@ -18,4 +18,4 @@ const times = function(b, a) {
 var a = 6;
 var b = 2;
 let i = 1;
-console.log('der blev slået' + tally[i];
+console.log('der blev slået' + tally[i]);
